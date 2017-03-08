@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/*
+*****************************
+** Created Time: 	${1}
+** File Name:		$TM_FILENAME
+** Desc:			${2:NULL}
+** Author:			Wang Yang
+*****************************
+*/
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>#title</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.c++</scope>
+</snippet>

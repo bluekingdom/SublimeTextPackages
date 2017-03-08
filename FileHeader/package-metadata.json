@@ -1,0 +1,1 @@
+{"platforms": ["*"], "description": "A powerful file templating plugin for Sublime Text", "version": "2.0.4", "dependencies": [], "url": "https://github.com/shiyanhui/FileHeader", "sublime_text": "*"}

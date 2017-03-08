@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+
+================================= 
+
+$TM_FILENAME   TM_FILENAME	用户文件名
+$TM_FILEPATH   TM_FILEPATH	用户文件全路径
+$TM_FULLNAME   TM_FULLNAME 	用户的用户名
+$TM_LINE_INDEX   TM_LINE_INDEX	插入多少列, 默认为0
+$TM_LINE_NUMBER   TM_LINE_NUMBER	一个snippet插入多少行
+$TM_SOFT_TABS  TM_SOFT_TABS	如果设置translate_tabs_to_spaces : true 则为Yes
+$TM_TAB_SIZE   TM_TAB_SIZE	每个Tab包含几个空格
+
+=================================
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>#help</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>Snippet Help!</description>
+</snippet>

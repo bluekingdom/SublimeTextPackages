@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"create",
+				"create_time"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"qr",
+				"qr_file_path"
+			],
+			[
+				"por",
+				"portfolio_value"
+			],
+			[
+				"las",
+				"last_days_value"
+			],
+			[
+				"crete",
+				"create_annoset"
+			],
+			[
+				"fo",
+				"folder_path"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: class-..-(class)"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"set syntax: c",
+				"Set Syntax: C"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"styl",
+				"Set Syntax: Stylus"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"p",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/blue/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
+		"/C/Users/blue/AppData/Roaming/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/C/Users/blue/AppData/Roaming/Sublime Text 3/Packages/FileHeader/template/body/C++.tmpl",
+		"/D/code/ssd-windows/src/caffe/blob.cpp",
+		"/C/Users/blue/AppData/Roaming/Sublime Text 3/Packages/User/snippet-help.sublime-snippet",
+		"/C/Users/blue/AppData/Roaming/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/C/Users/blue/AppData/Roaming/Sublime Text 3/Packages/User/title_python.sublime-snippet",
+		"/C/Users/blue/AppData/Roaming/Sublime Text 3/Packages/User/title_c++.sublime-snippet",
+		"/D/code/wxBot/bot.py",
+		"/D/code/ssd-windows/windows/caffe/test.prototxt",
+		"/D/code/ssd-windows/windows/caffe/train.prototxt",
+		"/D/code/ssd-windows/models/bvlc_googlenet/train_val.prototxt",
+		"/D/code/ssd-windows/src/caffe/proto/caffe.proto",
+		"/D/code/ssd-windows/windows/caffe/splits.prototxt",
+		"/D/code/ssd-windows/windows/caffe/solver.prototxt",
+		"/D/code/pva-faster-rcnn/models/pvanet/full/original.pt",
+		"/D/download/IDNoIdentifier.cpp.dump",
+		"/D/download/mini-caffe.cmake",
+		"/H/sdk/mkl/STU_L__CPP_SKCG-WK6JCJ7X.lic",
+		"/D/download/DeepLearning-to-wy/DeepLearning/cmake/Targets.cmake",
+		"/D/download/DeepLearning-to-wy/DeepLearning/cmake/Dependencies.cmake",
+		"/D/download/DeepLearning-to-wy/DeepLearning/deeplearningManager.cpp",
+		"/D/download/DeepLearning-to-wy/DeepLearning.cpp.dump",
+		"/D/download/DeepLearning-to-wy/DLErrorCode.h.dump",
+		"/D/code/ssd-windows/windows/caffe/train3.prototxt",
+		"/D/code/ssd-windows/windows/caffe/labelmap_voc.prototxt",
+		"/D/code/mini-caffe/tests/tests.cmake",
+		"/D/download/DeepLearning-to-wy/DeepLearning/CMakeLists.txt",
+		"/D/download/DeepLearning-to-wy/DeepLearning.cpp",
+		"/D/download/DeepLearning-to-wy/DLErrorCode.h",
+		"/D/download/IDNoIdentifier.cpp",
+		"/D/code/qt-everywhere-opensource-src-5.8.0/configure",
+		"/D/code/qt-everywhere-opensource-src-5.8.0/configure.bat",
+		"/D/download/均线 2017-03-01 23-26-18 LOG.txt",
+		"/D/download/均线 2017-03-01 23-22-32 LOG.txt",
+		"/D/sdk/opencv3.2/opencv/sources/build/opencv_tests.vcxproj",
+		"/D/sdk/opencv3.2/opencv/sources/build/OpenCV.sln",
+		"/D/sdk/opencv3.2/opencv/sources/build/opencv_modules.vcxproj",
+		"/D/code/ssd-windows/windows/caffe/filtered.prototxt",
+		"/D/code/ssd-windows/windows/caffe/test_name_size.txt",
+		"/D/code/ssd-windows/src/caffe/proto/caffe.pb.cc",
+		"/D/code/blog/themes/next/_config.yml",
+		"/D/code/blog/themes/next/scripts/excerpt.js",
+		"/D/code/blog/source/_posts/How-to-establish-the-blog.md",
+		"/D/code/ssd-windows/src/caffe/util/bbox_util.cu",
+		"/D/code/ssd-windows/src/caffe/util/bbox_util.cpp",
+		"/D/code/tiny-dnn-master/examples/caffe_converter/caffe_converter.cpp",
+		"/D/code/blog/_config.yml",
+		"/D/code/CaffeCodeLearning/note/basics/syncedmem.md",
+		"/D/code/CaffeCodeLearning/note/basics/blob.md",
+		"/D/code/tiny-dnn/examples/caffe_converter/create_proto.cmd",
+		"/D/code/blog/move-to-remote-server.cmd",
+		"/D/code/blog/scaffolds/draft.md",
+		"/D/code/blog/scaffolds/post.md",
+		"/D/code/blog/source/tags/index.md",
+		"/D/code/blog/themes/hollow/layout/_partial/article-index.ejs",
+		"/D/code/blog/source/About/index.md",
+		"/D/code/blog/themes/hollow/layout/layout.ejs",
+		"/D/code/blog/themes/hollow/layout/_partial/comment.ejs",
+		"/D/code/blog/themes/hollow/_config.yml",
+		"/D/code/blog/themes/hollow/layout/index.ejs",
+		"/D/code/blog/themes/hollow/layout/_partial/scripts.ejs.dump",
+		"/D/code/blog/themes/hollow/layout/_partial/scripts.ejs",
+		"/D/code/blog/themes/hollow/layout/_partial/article-full.ejs",
+		"/D/code/blog/themes/hollow/layout/archive.ejs",
+		"/D/code/blog/themes/cyanstyle/layout/_partial/sidebar.ejs",
+		"/D/code/blog/themes/cyanstyle/source/css/style.css",
+		"/D/code/blog/themes/cyanstyle/layout/layout.ejs",
+		"/D/code/blog/themes/hollow/layout/_partial/pagination.ejs",
+		"/D/code/blog/themes/cyanstyle/layout/_partial/archive.ejs",
+		"/D/code/blog/themes/cyanstyle/layout/index.ejs",
+		"/D/code/blog/themes/hollow/layout/post.ejs",
+		"/D/code/blog/themes/meilidu/layout/_widgets/music.ejs",
+		"/D/code/blog/themes/meilidu/_config.yml",
+		"/C/Users/blue/AppData/Roaming/Typora/themes/night.css",
+		"/C/Users/blue/AppData/Roaming/Typora/themes/night/mermaid.dark.css",
+		"/C/Users/blue/AppData/Roaming/Typora/conf/conf.default.json",
+		"/C/Users/blue/AppData/Roaming/Typora/conf/conf.user.json",
+		"/D/code/blog/themes/hollow/layout/_partial/article-tags.ejs",
+		"/D/code/blog/themes/meilidu/layout/layout.ejs",
+		"/D/code/blog/themes/meilidu/source/css/header.styl",
+		"/D/code/blog/themes/meilidu/source/css/style.styl",
+		"/D/code/blog/themes/meilidu/layout/_widgets/site_links.ejs",
+		"/D/code/blog/themes/meilidu/source/css/article.styl",
+		"/D/code/blog/themes/meilidu/source/css/variables.styl",
+		"/D/code/blog/themes/meilidu/layout/index.ejs.dump",
+		"/D/code/blog/themes/meilidu/layout/index.ejs",
+		"/D/code/blog/themes/meilidu/source/css/headers.styl",
+		"/D/code/blog/themes/meilidu/layout/post.ejs.dump",
+		"/D/code/blog/themes/meilidu/layout/post.ejs",
+		"/D/code/blog/themes/meilidu/layout/footer.ejs.dump",
+		"/D/code/blog/themes/meilidu/source/css/footer.styl",
+		"/D/code/blog/themes/meilidu/layout/footer.ejs",
+		"/D/code/blog/themes/meilidu/layout/_widgets/greeting.ejs",
+		"/D/code/blog/themes/meilidu/layout/_widgets/recent_posts.ejs",
+		"/D/code/blog/themes/very-simple/layout/index.jade",
+		"/D/code/blog/themes/very-simple/_config.yml",
+		"/D/code/blog/themes/very-simple/layout/base.jade.dump",
+		"/D/code/blog/themes/very-simple/layout/base.jade",
+		"/D/code/blog/themes/very-simple/layout/_partial/comments.jade",
+		"/D/code/blog/themes/very-simple/source/css/very-simple.scss",
+		"/D/code/blog/themes/cyanstyle/layout/_partial/article.ejs",
+		"/D/code/blog/themes/cyanstyle/_config.yml",
+		"/D/code/blog/source/_posts/hello-world.md",
+		"/D/code/blog/themes/cyanstyle/layout/page.ejs",
+		"/D/code/blog/themes/cyanstyle/layout/post.ejs",
+		"/D/code/blog/themes/cyanstyle/layout/_widget/music.ejs",
+		"/D/code/blog/themes/cyanstyle/layout/_partial/header.ejs",
+		"/D/code/blog/themes/cyanstyle/layout/_partial/head.ejs",
+		"/D/code/blog/themes/cyanstyle/source/js/script.js",
+		"/D/code/blog/themes/cyanstyle/scripts/fancybox.js",
+		"/D/code/blog/themes/cyanstyle/Gruntfile.js",
+		"/C/Users/blue/.ssh/id_rsa.pub",
+		"/D/download/caffe-face-caffe-face/src/caffe/proto/caffe.proto",
+		"/D/code/ssd-windows/models/VGGNet/VOC0712/train.prototxt",
+		"/D/code/ssd-windows/data/VOC0712/labelmap_voc.prototxt",
+		"/D/code/ssd-windows/scripts/create_annoset.py",
+		"/D/code/wxBot-master/README.md",
+		"/D/code/wxBot-master/test.py",
+		"/D/code/wxBot-master/wxbot.py",
+		"/D/code/wxBot-master/bot.py",
+		"/D/code/darknet-master/build/darknet/x64/data/voc/voc_label.py",
+		"/D/code/darknet-master/build/darknet/x64/train_tiny_voc.cmd",
+		"/D/code/darknet-master/build/darknet/x64/tiny-yolo-voc.cfg",
+		"/D/code/darknet-master/build/darknet/x64/data/voc.data",
+		"/D/code/ssd-windows/data/VOC0712/create_data.bat",
+		"/D/code/ssd-windows/data/VOC0712/VOC2012/Annotations/2009_001696.xml",
+		"/D/code/wxBot-master/conf.ini"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Author",
+			"Wang",
+			"m_lock",
+			"boost",
+			"prefix",
+			"WARN",
+			"ProjectDir",
+			"BuildDir",
+			"propagate_down",
+			"lr",
+			"ParamSpec",
+			"blobs",
+			"BlobProto",
+			"LayerParameter",
+			"FillerParameter",
+			"Normalize",
+			"loss",
+			"Net",
+			"include",
+			"NetStateRule",
+			"LayerParameter",
+			"NoiseParameter",
+			"TransformationParameter",
+			"ParamSpec",
+			"layerparameter",
+			"Phase",
+			"LayerParameter",
+			"BlobProto",
+			"SolverParameter",
+			"NetState",
+			"SolverParameter",
+			"NetState",
+			"NetParameter",
+			"solver",
+			"excerpt",
+			"Helvetica Neue",
+			"font",
+			"trebuchet ms",
+			"font",
+			"current_title",
+			"images",
+			"favicon",
+			"ico",
+			"images",
+			"images/",
+			"body",
+			"ico",
+			"fav",
+			"favi",
+			"get_uuid",
+			"Image",
+			"temp_pwd",
+			"gen_qr_code",
+			"qr_file_path",
+			"conf",
+			"LabelMap",
+			"AnnotationGroup",
+			"Annotation",
+			"AnnotationGroup",
+			"LossParameter",
+			"V1LayerParameter",
+			"entropy",
+			"ENTROPY",
+			"SIGMOID_CROSS_ENTROPY_LOSS",
+			"get_ipython",
+			"models/pvanet/pva9.1/",
+			"conv3_4",
+			"test_detection",
+			"regression",
+			"test_detection",
+			"job",
+			"jobs",
+			"resize",
+			"caffe_root",
+			"HOME",
+			"daily_process",
+			"last_day_value",
+			"share",
+			"test_imgs",
+			"4",
+			"TRAIN",
+			"([\\w]+.jpg)",
+			"TRAIN",
+			"([\\w]+.jpg)",
+			"priorbox",
+			"21",
+			"126",
+			"63",
+			"priorbox",
+			"conf",
+			"mbox_loc",
+			"mbox_conf",
+			"conv4_3",
+			"fc7",
+			"PriorBoxParameter",
+			"prior_box",
+			"mbox_loc",
+			"conv6_2_mbox_loc_flat",
+			"/",
+			"LMDB",
+			"lmdb",
+			"NULL",
+			"-1",
+			"normalize",
+			"norm",
+			"BatckNorm",
+			"batcknorm",
+			"BatckNorm",
+			"batcknorm",
+			"transFlag",
+			"False",
+			"INSTALLER_PATH"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Microsoft YaHei",
+			"",
+			"daily_end_process",
+			"last_days_value",
+			"imgs",
+			"TEST",
+			"imgs/$1",
+			"TEST",
+			"test_imgs/$1",
+			"imgs/$1",
+			"4",
+			"24",
+			"12",
+			"\\\\",
+			"LEVELDB",
+			"leveldb",
+			"BatchNorm",
+			"batchnorm",
+			"BatchNorm",
+			"batchnorm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Python.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

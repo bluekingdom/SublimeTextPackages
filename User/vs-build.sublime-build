@@ -1,0 +1,15 @@
+{  
+    "cmd": ["$packages\\User\\vs-build.cmd", "$file"],  
+    "working_dir": "${file_path}",  
+    "file_regex": "^(...*?)[(]([0-9]*),([0-9]*)[)]",  
+    "shell": true,  
+    "encoding": "gb2312",  
+  
+    "variants":  
+    [  
+        {  
+            "name": "Run",  
+            "cmd": ["$packages\\User\\build.bat", "$file", "&", "${file_path}/${file_base_name}.exe"]  
+        }  
+    ]  
+}

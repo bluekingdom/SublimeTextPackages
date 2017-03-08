@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"FileHeader",
+		"GBK Support",
+		"InsertDate",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"Package Control",
+		"Stylus",
+		"Stylus-Snippets"
+	]
+}
