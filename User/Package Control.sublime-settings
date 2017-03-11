@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"CMake",
 		"ConvertToUTF8",
 		"FileHeader",
 		"GBK Support",
