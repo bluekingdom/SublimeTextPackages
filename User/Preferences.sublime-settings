@@ -1,8 +1,12 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"font_face": "DejaVu Sans Mono",
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
+	"caret_extra_width": 4,
+    // "caret_style": "solid",
+    "wide_caret": true,
+    "indent_guide_options": ["draw_active"],
 	"ignored_packages":
 	[
 		"Markdown"
